@@ -8,8 +8,11 @@ Any suggestion or issue are welcome.
 - [Semantic Bias](#semantic-bias)
 - [Downstream Task](#downstream-task)
 
-## Survey
+* 💾 stands for releasing new dataset.
+
+## Survey and Framework
 - [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://www.aclweb.org/anthology/2020.acl-main.485/) (ACL 2020)
+- [Predictive Biases in Natural Language Processing Models- A Conceptual Framework and Overview](https://www.aclweb.org/anthology/2020.acl-main.468/) (ACL 2020)
 
 ## Semantic Bias
 
@@ -20,6 +23,8 @@ Any suggestion or issue are welcome.
 - [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://arxiv.org/pdf/1711.08412.pdf) (PNAS 2018)
 - [Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them](https://www.aclweb.org/anthology/N19-1061/) (NAACL 2019)
 - [Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings](https://www.aclweb.org/anthology/N19-1062/) (NAACL 2019)
+- [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484/) (ACL 2020)
+- [Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://www.aclweb.org/anthology/2020.acl-main.260/) (ACL 2020) - 💾
 
 ### Contextual Embedding 
 
@@ -28,10 +33,13 @@ Any suggestion or issue are welcome.
 - [Assessing Social and Intersectional Biases in Contextualized Word Representations](https://papers.nips.cc/paper/2019/file/201d546992726352471cfea6b0df0a48-Paper.pdf) (NeurIPS 2019)
 - [Towards Debiasing Sentence Representations](https://www.aclweb.org/anthology/2020.acl-main.488/) (ACL 2020)
 - [Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings](https://www.aclweb.org/anthology/2020.acl-main.431/) (ACL 2020)
-- [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484/) (ACL 2020)
+- [Monolingual and Multilingual Reduction of Gender Bias in Contextualized Representations](https://www.aclweb.org/anthology/2020.coling-main.446/) (COLING 2020)
+
+## Language Generation
+- [The Woman Worked as a Babysitter: On Biases in Language Generation](https://www.aclweb.org/anthology/D19-1339/) (EMNLP 2019)
+- [SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language](https://www.aclweb.org/anthology/2020.acl-main.486/) (ACL 2020) - 💾
 - [Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning](https://www.aclweb.org/anthology/2020.emnlp-main.64/) (EMNLP 2020)
 - [Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation](https://www.aclweb.org/anthology/2020.emnlp-main.656/) (EMNLP 2020)
-- [Monolingual and Multilingual Reduction of Gender Bias in Contextualized Representations](https://www.aclweb.org/anthology/2020.coling-main.446/) (COLING 2020)
 
 ## Downstream Task
 
@@ -40,3 +48,7 @@ Any suggestion or issue are welcome.
 
 ### Sentiment Analysis
 - [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://www.aclweb.org/anthology/S18-2005/) (ACL 2018) 
+
+## Hate speech
+
+- [Social Biases in NLP Models as Barriers for Persons with Disabilities](https://www.aclweb.org/anthology/2020.acl-main.487/) (ACL 2020)
