@@ -1,5 +1,3 @@
-# NLP-Ethics-Papers
-
 This is a list of papers concerning the ethical issues in NLP. Updating... Any suggestion or issue are welcome.
 * 💾 stands for releasing new dataset.
 
@@ -15,6 +13,7 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 ## Survey and Framework
 - [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://www.aclweb.org/anthology/2020.acl-main.485/) (ACL 2020)
 - [Predictive Biases in Natural Language Processing Models- A Conceptual Framework and Overview](https://www.aclweb.org/anthology/2020.acl-main.468/) (ACL 2020)
+- [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (FAccT 2021)
 
 ## Semantic Bias
 
@@ -55,7 +54,11 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 
 - [Social Biases in NLP Models as Barriers for Persons with Disabilities](https://www.aclweb.org/anthology/2020.acl-main.487/) (ACL 2020)
 
+## Analysis
+
+- [Investigating Gender Bias in Language Models Using Causal Mediation Analysis](https://proceedings.neurips.cc//paper_files/paper/2020/hash/92650b2e92217715fe312e6fa7b90d82-Abstract.html) (NeurIPS 2020)
+
 ## Benchmarks
 
-- [StereoSet: Measuring stereotypical bias in pretrained language models](https://stereoset.mit.edu/) (arxiv 2020)
-- [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154/) (EMNLP 2020)
+- [StereoSet: Measuring stereotypical bias in pretrained language models](https://stereoset.mit.edu/) (arxiv 2020) - 💾
+- [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154/) (EMNLP 2020) - 💾
