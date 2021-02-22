@@ -52,3 +52,8 @@ Any suggestion or issue are welcome.
 ## Hate speech
 
 - [Social Biases in NLP Models as Barriers for Persons with Disabilities](https://www.aclweb.org/anthology/2020.acl-main.487/) (ACL 2020)
+
+## Benchmarks
+
+- [StereoSet: Measuring stereotypical bias in pretrained language models](https://stereoset.mit.edu/) (arxiv 2020)
+- [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154/) (EMNLP 2020)
