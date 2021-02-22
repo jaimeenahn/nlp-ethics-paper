@@ -1,14 +1,16 @@
-# NLP-and-Ethics-Papers
+# NLP-Ethics-Papers
 
-This is a list of papers concerning the ethical issues in NLP. Updating...
-Any suggestion or issue are welcome.
+This is a list of papers concerning the ethical issues in NLP. Updating... Any suggestion or issue are welcome.
+* 💾 stands for releasing new dataset.
+
 
 ## Table of Contents
 - [Survey](#survey)
 - [Semantic Bias](#semantic-bias)
+- [Bias in Language Generation](#generation)
 - [Downstream Task](#downstream-task)
-
-* 💾 stands for releasing new dataset.
+- [Hate Speech](#hate-speech)
+- [Benchmarks](#benchmarks)
 
 ## Survey and Framework
 - [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://www.aclweb.org/anthology/2020.acl-main.485/) (ACL 2020)
