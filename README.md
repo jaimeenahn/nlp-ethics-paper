@@ -59,6 +59,9 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 ### Sentiment Analysis
 - [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://www.aclweb.org/anthology/S18-2005/) (ACL 2018) - 💾
 
+### Machine Translation
+- [Towards Cross-Lingual Generalization of Translation Gender Bias](https://dl.acm.org/doi/pdf/10.1145/3442188.3445907) (FAccT 2021)
+
 ## Hate speech
 - [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163/) (ACL 2019)
 - [Social Biases in NLP Models as Barriers for Persons with Disabilities](https://www.aclweb.org/anthology/2020.acl-main.487/) (ACL 2020)
