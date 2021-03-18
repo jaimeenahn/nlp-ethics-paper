@@ -8,6 +8,7 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 - [Bias in Language Generation](#generation)
 - [Downstream Task](#downstream-task)
 - [Hate Speech](#hate-speech)
+- [Analysis](#analysis)
 - [Benchmarks](#benchmarks)
 
 ## Survey and Framework
@@ -50,6 +51,7 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 - [Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation](https://www.aclweb.org/anthology/2020.emnlp-main.656/) (EMNLP 2020)
 - [Towards Controllable Biases in Language Generation](https://www.aclweb.org/anthology/2020.findings-emnlp.291/) (EMNLP 2020 Findings)
 - [Does Gender Matter? Towards Fairness in Dialogue Systems](https://www.aclweb.org/anthology/2020.coling-main.390) (COLING 2020)
+- [Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP](https://arxiv.org/pdf/2103.00453.pdf) (arxiv)
 
 ## Downstream Task
 
