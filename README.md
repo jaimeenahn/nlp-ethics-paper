@@ -59,6 +59,7 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 - [Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://www.aclweb.org/anthology/Q18-1042/) (TACL 2018) - 💾
 - [Gender Bias in Coreference Resolution](https://www.aclweb.org/anthology/N18-2002/) (NAACL 2018) - 💾
 - [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://www.aclweb.org/anthology/N18-2003/) (NAACL 2018) - 💾
+- [Toward Gender-Inclusive Coreference Resolution](https://www.aclweb.org/anthology/2020.acl-main.418) (ACL 2020) - 💾
 - [Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models](https://arxiv.org/pdf/2101.09688.pdf) (EACL 2021)
 
 ### Image Captioning
@@ -70,13 +71,16 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 ### Machine Translation
 - [Towards Cross-Lingual Generalization of Translation Gender Bias](https://dl.acm.org/doi/pdf/10.1145/3442188.3445907) (FAccT 2021)
 
+### ETC
+- [Bias in Bios: A Case Study of Semantic Representation Bias in a High-Stakes Setting](https://dl.acm.org/doi/10.1145/3287560.3287572) (FAT* 2019)
+- [Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection](https://www.aclweb.org/anthology/2020.acl-main.647) (ACL 2020)
+
 ## Hate speech
 - [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163/) (ACL 2019)
 - [Social Biases in NLP Models as Barriers for Persons with Disabilities](https://www.aclweb.org/anthology/2020.acl-main.487/) (ACL 2020)
 - [Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection]() (NAACL 2021)
 
 ## Analysis
-
 - [Investigating Gender Bias in Language Models Using Causal Mediation Analysis](https://proceedings.neurips.cc//paper_files/paper/2020/hash/92650b2e92217715fe312e6fa7b90d82-Abstract.html) (NeurIPS 2020)
 - [Diverse Adversaries for Mitigating Bias in Training](https://arxiv.org/pdf/2101.10001.pdf) (arxiv)
 
