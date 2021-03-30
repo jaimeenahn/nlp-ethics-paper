@@ -26,6 +26,8 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 - [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://arxiv.org/pdf/1711.08412.pdf) (PNAS 2018)
 - [Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them](https://www.aclweb.org/anthology/N19-1061/) (NAACL 2019)
 - [Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings](https://www.aclweb.org/anthology/N19-1062/) (NAACL 2019)
+- [Simple dynamic word embeddings for mapping perceptions in the public sphere](https://www.aclweb.org/anthology/W19-2111/) (NAACL 2019 Workshop)
+- [It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution](https://www.aclweb.org/anthology/D19-1530) (EMNLP 2019)
 - [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484/) (ACL 2020)
 - [Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://www.aclweb.org/anthology/2020.acl-main.260/) (ACL 2020) - 💾
 - [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.emnlp-main.232) (EMNLP 2020)
@@ -46,6 +48,7 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 
 ## Language Generation
 - [The Woman Worked as a Babysitter: On Biases in Language Generation](https://www.aclweb.org/anthology/D19-1339/) (EMNLP 2019)
+- [Plug and Play Language Models: A Simple Approach to Controlled Text Generation (Section 4.4)](https://openreview.net/forum?id=H1edEyBKDS) (ICLR 2020)
 - [SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language](https://www.aclweb.org/anthology/2020.acl-main.486/) (ACL 2020) - 💾
 - [Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning](https://www.aclweb.org/anthology/2020.emnlp-main.64/) (EMNLP 2020)
 - [Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation](https://www.aclweb.org/anthology/2020.emnlp-main.656/) (EMNLP 2020)
@@ -57,6 +60,7 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 
 ### Coreference Resolution
 - [Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://www.aclweb.org/anthology/Q18-1042/) (TACL 2018) - 💾
+- [Gender Bias in Neural Natural Language Processing](https://arxiv.org/pdf/1807.11714.pdf) (arxiv)
 - [Gender Bias in Coreference Resolution](https://www.aclweb.org/anthology/N18-2002/) (NAACL 2018) - 💾
 - [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://www.aclweb.org/anthology/N18-2003/) (NAACL 2018) - 💾
 - [Toward Gender-Inclusive Coreference Resolution](https://www.aclweb.org/anthology/2020.acl-main.418) (ACL 2020) - 💾
@@ -81,8 +85,9 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 - [Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection]() (NAACL 2021)
 
 ## Analysis
+- [Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty with Bernstein Bounds](https://www.aclweb.org/anthology/2020.acl-main.262) (ACL 2020)
 - [Investigating Gender Bias in Language Models Using Causal Mediation Analysis](https://proceedings.neurips.cc//paper_files/paper/2020/hash/92650b2e92217715fe312e6fa7b90d82-Abstract.html) (NeurIPS 2020)
-- [Diverse Adversaries for Mitigating Bias in Training](https://arxiv.org/pdf/2101.10001.pdf) (arxiv)
+- [Diverse Adversaries for Mitigating Bias in Training](https://arxiv.org/pdf/2101.10001.pdf) (EACL 2021)
 
 ## Benchmarks
 
