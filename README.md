@@ -94,3 +94,5 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 - [StereoSet: Measuring stereotypical bias in pretrained language models](https://stereoset.mit.edu/) (arxiv 2020) - 💾
 - [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154/) (EMNLP 2020) - 💾
 - [BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation](https://arxiv.org/abs/2101.11718) (FAccT 2021) - 💾
+- [HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection](https://arxiv.org/pdf/2012.10289.pdf) (AAAI 2021) - 💾
+- [What Will it Take to Fix Benchmarking in Natural Language Understanding?](https://arxiv.org/pdf/2104.02145.pdf) (NAACL 2021)
