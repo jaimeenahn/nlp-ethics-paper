@@ -44,6 +44,7 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 - [Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings](https://www.aclweb.org/anthology/2020.acl-main.431/) (ACL 2020)
 - [Monolingual and Multilingual Reduction of Gender Bias in Contextualized Representations](https://www.aclweb.org/anthology/2020.coling-main.446/) (COLING 2020)
 - [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT’s Gender Bias](https://www.aclweb.org/anthology/2020.gebnlp-1.1/) (COLING 2020)
+- [Debiasing Pre-trained Contextualised Embeddings](https://arxiv.org/pdf/2101.09523.pdf) (EACL 2021)
 - [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w) (ICLR 2021)
 
 ## Language Generation
