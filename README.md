@@ -16,6 +16,7 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 - [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://www.aclweb.org/anthology/2020.acl-main.485/) (ACL 2020)
 - [Predictive Biases in Natural Language Processing Models- A Conceptual Framework and Overview](https://www.aclweb.org/anthology/2020.acl-main.468/) (ACL 2020)
 - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) (FAccT 2021)
+- [Case Study: Deontological Ethics in NLP](https://arxiv.org/abs/2010.04658) (NAACL 2021)
 
 ## Semantic Bias
 
