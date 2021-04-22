@@ -47,6 +47,7 @@ This is a list of papers concerning the ethical issues in NLP. Updating... Any s
 - [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT’s Gender Bias](https://www.aclweb.org/anthology/2020.gebnlp-1.1/) (COLING 2020)
 - [Debiasing Pre-trained Contextualised Embeddings](https://arxiv.org/pdf/2101.09523.pdf) (EACL 2021)
 - [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w) (ICLR 2021)
+- [On Transferability of Bias Mitigation Effects in Language Model Fine-Tuning](https://arxiv.org/pdf/2010.12864.pdf) (NAACL 2021)
 
 ## Language Generation
 - [The Woman Worked as a Babysitter: On Biases in Language Generation](https://www.aclweb.org/anthology/D19-1339/) (EMNLP 2019)
